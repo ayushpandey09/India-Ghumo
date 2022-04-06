@@ -101,36 +101,35 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Around the Nation,
-"
+            android:text="@string/around_the_nation"
             android:textColor="#000"
             android:textSize="18sp" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Wonders of the Country,"
+            android:text="@string/wonders_of_the_country"
             android:textColor="#000"
             android:textSize="18sp" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Diversity of the States,"
+            android:text="@string/diversity_of_the_states"
             android:textColor="#000"
             android:textSize="18sp" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Splendor of the Cities,"
+            android:text="@string/splendor_of_the_cities"
             android:textColor="#000"
             android:textSize="18sp" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="With IndiaGhumo."
+            android:text="@string/with_indiaghumo"
             android:textColor="#000"
             android:textSize="18sp" />
     </LinearLayout>

@@ -6,4 +6,9 @@
     <string name="welcome">WELCOME,</string>
     <string name="tony">TONY</string>
     <string name="categories">CATEGORIES</string>
+    <string name="wonders_of_the_country">Wonders of the Country,</string>
+    <string name="around_the_nation">Around the Nation,</string>
+    <string name="diversity_of_the_states">Diversity of the States,</string>
+    <string name="splendor_of_the_cities">Splendor of the Cities,</string>
+    <string name="with_indiaghumo">With IndiaGhumo.</string>
 </resources>
